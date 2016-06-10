@@ -1,0 +1,27 @@
+* Slide to book mapping based on 4th edition
+* The mapping is a shallow one, 
+  check slide to make sure exactly what topics are in the syllabus
+
+Slide 2
+-------
+2.2		- Architecture Models
+2.3		- Fundamental Models
+11.2	- Clocks, Events, and Process States
+11.3	- Synchronizing Physical Clocks
+11.4	- Logical Time and Logical Clocks
+
+Slide 3
+-------
+12.2	- Distributed Mutual Exclusion
+12.3	- Elections
+11.5	- Global States
+12.4	- Multicast Communication
+
+Slide 4
+-------
+12.4	- Multicast Communication
+12.5	- Consensus and Related Problems
+
+Lecture
+-------
+pending
