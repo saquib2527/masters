@@ -22,6 +22,7 @@ Slide 4
 12.4	- Multicast Communication
 12.5	- Consensus and Related Problems
 
-Lecture
--------
-pending
+Lecture: Remote Object, Event Notifications, and Distributed File System
+------------------------------------------------------------------------
+Chapter 5 - Remote Object and Event Notification
+chapter 8 - Distribute File System
